@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jCdF4/K/NVw=",
+  "success": true,
+  "projectFilePath": "B:\\nig\\src and other shit idgaf abt\\internal shit\\GUI\\ExecutorGUI\\ExecutorGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\realt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\realt\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\realt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\realt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="rbx_internal.vcxproj" Id="438329b6-fdd0-44da-907b-b707f5d16202" />
+</Solution>
